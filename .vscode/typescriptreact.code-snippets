@@ -1,0 +1,12 @@
+{
+  "Code Region": {
+    "prefix": "reg",
+    "scope": "javascript, typescript, javascriptreact, typescriptreact",
+    "body": [
+      "// #region ====== ${1:Region Name} ======",
+      "$0",
+      "// #endregion"
+    ],
+    "description": "Create a collapsible code region"
+  }
+}
